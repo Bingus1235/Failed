@@ -48,5 +48,5 @@ disabled_commands:
 servers:
   lobby:
     motd: '&1Just another BungeeCord - Forced Host'
-    address: Eaglecraft.aternos.me:50499
+    address: Bingus_Is_Better.aternos.me:45203
     restricted: false
